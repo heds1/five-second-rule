@@ -1,0 +1,6 @@
+## Interface: 11305
+## Title: FiveSecondRule
+## Notes: For tracking mana regeneration.
+## Authod: heds1
+## Version: 0.1
+FiveSecondRule.lua
